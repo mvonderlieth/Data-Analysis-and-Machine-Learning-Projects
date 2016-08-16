@@ -13,7 +13,7 @@ import os.path
 import random
 import webbrowser
 
-GOOGLE_MAPS_API_KEY = "Your Key Here"
+GOOGLE_MAPS_API_KEY = "AIzaSyCiG3p3KA7qqh33a9F6AdwzyU-0QjASSAM"
 waypoints_file = "my-waypoints-dist-dur.tsv"
 
 #This is the general filename - as shorter routes are discovered the Population fitness score will be inserted into the filename
